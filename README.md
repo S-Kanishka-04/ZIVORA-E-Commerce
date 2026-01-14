@@ -57,9 +57,9 @@ It allows users to browse bridal and partywear collections, search products, add
 - CORS handling
 - REST API architecture
 - .env configuration
-
 ## 📂 Project Folder Structure
 
+```
 ZIVORA-E-Commerce/
 │
 ├── frontend/
@@ -77,7 +77,7 @@ ZIVORA-E-Commerce/
 │   └── .env
 │
 └── README.md
-
+```
 ## 🙌 Acknowledgment
 > **Note:** ZIVORA is **not a real online store**.  
 > It is a **fictional e-commerce platform created for learning and educational purposes**, to practice full-stack development concepts and project structure.

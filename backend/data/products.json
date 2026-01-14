@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Floral Summer Dress",
+    "price": 1499,
+    "description": "A breezy floral dress perfect for summer days.",
+    "category": "Women",
+    "stock": 25,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "brand": "Zivora Exclusive",
+    "ratings": 4.7,
+    "numOfReviews": 15
+  },
+  {
+    "name": "Men's Casual Shirt",
+    "price": 999,
+    "description": "Soft cotton shirt with full sleeves and modern fit.",
+    "category": "Men",
+    "stock": 40,
+    "images": [
+      {
+        "public_id": "zivora_men_shirt1",
+        "url": "https://example.com/images/men-shirt1.jpg"
+      }
+    ],
+    "brand": "Zivora Originals",
+    "ratings": 4.3,
+    "numOfReviews": 8
+  },
+  {
+    "name": "Unisex Hoodie - Black",
+    "price": 1899,
+    "description": "Warm and comfortable hoodie for daily wear.",
+    "category": "Unisex",
+    "stock": 30,
+    "images": [
+      {
+        "public_id": "zivora_unisex_hoodie_black",
+        "url": "https://example.com/images/hoodie-black.jpg"
+      }
+    ],
+    "brand": "Zivora",
+    "ratings": 4.8,
+    "numOfReviews": 23
+  },
+  {
+    "name": "Kid's Printed T-Shirt",
+    "price": 599,
+    "description": "Cute and colorful t-shirt for kids.",
+    "category": "Kids",
+    "stock": 50,
+    "images": [
+      {
+        "public_id": "zivora_kids_tshirt1",
+        "url": "https://example.com/images/kids-tshirt1.jpg"
+      }
+    ],
+    "brand": "Zivora Mini",
+    "ratings": 4.5,
+    "numOfReviews": 12
+  },
+  {
+    "name": "Women's High-Waist Jeans",
+    "price": 1799,
+    "description": "Stretchable denim jeans with a high-waist fit.",
+    "category": "Women",
+    "stock": 20,
+    "images": [
+      {
+        "public_id": "zivora_jeans_highwaist",
+        "url": "https://example.com/images/women-jeans.jpg"
+      }
+    ],
+    "brand": "Zivora Denim",
+    "ratings": 4.6,
+    "numOfReviews": 9
+  },
+  {
+    "name": "Men's Graphic T-Shirt",
+    "price": 749,
+    "description": "Trendy graphic tee with vibrant prints.",
+    "category": "Men",
+    "stock": 35,
+    "images": [
+      {
+        "public_id": "zivora_men_graphictee",
+        "url": "https://example.com/images/men-graphic-tee.jpg"
+      }
+    ],
+    "brand": "Zivora Street",
+    "ratings": 4.2,
+    "numOfReviews": 10
+  },
+  {
+    "name": "Women's Kurti Set",
+    "price": 1999,
+    "description": "Elegant kurti with matching dupatta and leggings.",
+    "category": "Women",
+    "stock": 15,
+    "images": [
+      {
+        "public_id": "zivora_kurti_set",
+        "url": "https://example.com/images/kurti-set.jpg"
+      }
+    ],
+    "brand": "Zivora Traditions",
+    "ratings": 4.9,
+    "numOfReviews": 18
+  },
+  {
+    "name": "Men's Joggers - Grey",
+    "price": 1299,
+    "description": "Comfortable joggers ideal for workout and casual wear.",
+    "category": "Men",
+    "stock": 22,
+    "images": [
+      {
+        "public_id": "zivora_joggers_grey",
+        "url": "https://example.com/images/joggers-grey.jpg"
+      }
+    ],
+    "brand": "Zivora Fit",
+    "ratings": 4.4,
+    "numOfReviews": 7
+  },
+  {
+    "name": "Kid's Denim Jacket",
+    "price": 1399,
+    "description": "Stylish denim jacket to keep kids warm and trendy.",
+    "category": "Kids",
+    "stock": 18,
+    "images": [
+      {
+        "public_id": "zivora_kids_denimjacket",
+        "url": "https://example.com/images/kids-denim.jpg"
+      }
+    ],
+    "brand": "Zivora Mini",
+    "ratings": 4.6,
+    "numOfReviews": 6
+  },
+  {
+    "name": "Oversized Unisex T-Shirt",
+    "price": 999,
+    "description": "Loose-fit oversized t-shirt with minimalistic design.",
+    "category": "Unisex",
+    "stock": 28,
+    "images": [
+      {
+        "public_id": "zivora_oversized_tshirt",
+        "url": "https://example.com/images/oversized-tee.jpg"
+      }
+    ],
+    "brand": "Zivora Urban",
+    "ratings": 4.8,
+    "numOfReviews": 21
+  }
+]

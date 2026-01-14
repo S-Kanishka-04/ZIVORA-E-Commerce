@@ -57,7 +57,7 @@ It allows users to browse bridal and partywear collections, search products, add
 - CORS handling
 - REST API architecture
 - .env configuration
----
+
 ## 📂 Project Folder Structure
 ZIVORA-E-Commerce/
 │

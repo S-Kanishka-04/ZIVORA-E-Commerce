@@ -1,9 +1,7 @@
 # ⭐ ZIVORA – E-Commerce Website  
-### Bridal & Partywear Shopping Destination for Women 👗✨
 
 ZIVORA is a full-stack e-commerce application built using **React, Node.js, Express, and MongoDB Atlas**.  
 It allows users to browse bridal and partywear collections, search products, add them to cart, and place orders.  
-
 
 ---
 ## 🚀 Features

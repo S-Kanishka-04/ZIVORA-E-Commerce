@@ -41,22 +41,13 @@ It allows users to browse bridal and partywear collections, search products, add
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React
-- React Router
-- Axios
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React, React Router, Axios |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB Atlas (Cloud) |
+| **Other** | CORS handling, REST API architecture, .env configuration |
 
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB Atlas (Cloud)
-
-**Other**
-- CORS handling
-- REST API architecture
-- .env configuration
 ## 📂 Project Folder Structure
 
 ```

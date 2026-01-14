@@ -1,6 +1,6 @@
 # ⭐ ZIVORA – E-Commerce Website  
 
-ZIVORA is a full-stack e-commerce application built using **React, Node.js, Express, and MongoDB Atlas**.  
+ZIVORA is a MERN-Stack E-commerce application built using **React, Node.js, Express, and MongoDB Atlas**.  
 It allows users to browse bridal and partywear collections, search products, add them to cart, and place orders.  
 
 ---

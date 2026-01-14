@@ -77,7 +77,7 @@ ZIVORA-E-Commerce/
 ## 📸 Screenshot
 ### Latest Products
 <img width="1869" height="885" alt="image" src="https://github.com/user-attachments/assets/21c5f7b2-b181-46a7-a273-3ae30f5076e1" />
-### Product Details
+> ### Product Details
 <img width="1883" height="909" alt="image" src="https://github.com/user-attachments/assets/edd07a52-1133-42ea-8e32-4f61c4117c74" />
 ### Cart
 <img width="1886" height="885" alt="image" src="https://github.com/user-attachments/assets/23f9d642-7932-4232-b527-4f086c607730" />

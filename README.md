@@ -59,21 +59,22 @@ It allows users to browse bridal and partywear collections, search products, add
 - .env configuration
 
 ## 📂 Project Folder Structure
+
 ZIVORA-E-Commerce/
 │
 ├── frontend/
-│ └── src/
-│ ├── components/
-│ ├── pages/
-│ ├── App.js
-│ └── index.js
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── App.js
+│       └── index.js
 │
 ├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── controllers/
-│ ├── server.js
-│ └── .env
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   ├── server.js
+│   └── .env
 │
 └── README.md
 

@@ -3,7 +3,7 @@
 
 ZIVORA is a full-stack e-commerce application built using **React, Node.js, Express, and MongoDB Atlas**.  
 It allows users to browse bridal and partywear collections, search products, add them to cart, and place orders.  
-The project follows a structured workflow inspired by the “React Ecommerce Project” YouTube tutorial.
+
 
 ---
 
@@ -57,7 +57,6 @@ The project follows a structured workflow inspired by the “React Ecommerce Pro
 - CORS handling
 - REST API architecture
 - .env configuration
-
 ---
 frontend/
 └── src/

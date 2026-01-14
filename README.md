@@ -6,36 +6,41 @@ It allows users to browse bridal and partywear collections, search products, add
 
 
 ---
-
 ## 🚀 Features
 
 ### 🛍️ User Features
-- View bridal & partywear product catalog  
-- Product search functionality  
-- Product detail page with full information  
-- Add to cart / remove from cart  
-- Increase & decrease product quantity  
-- Cart summary & total calculation  
-- Order creation flow  
-- Toast notifications for actions  
+- Browse bridal and partywear products  
+- Search products by name  
+- View detailed product information  
+- Add items to cart  
+- Remove items from cart  
+- Increase or decrease item quantity  
+- View cart summary and total price  
+- Place an order (demo flow)  
+- See success/error toast messages  
 
-### 🧩 Frontend
-- React functional components  
-- React Router navigation  
-- Responsive UI layout  
-- Header & Footer components  
-- Product cards & product detail UI  
+---
 
-### 🔧 Backend
-- Node.js + Express server  
-- MongoDB Atlas database  
+### 🧩 Frontend Features
+- Built with React functional components  
+- Easy navigation using React Router  
+- Clean and responsive UI design  
+- Reusable Header and Footer components  
+- Product list and product card display  
+- Separate pages for product list and product details  
+
+---
+
+### 🔧 Backend Features
+- Node.js and Express server  
+- MongoDB Atlas database connection  
 - REST APIs for:
   - Get all products
   - Get single product
   - Create order
-- Product stock updates on order  
-- Environment variables configuration  
-- Routes & Controllers architecture  
+- Automatic stock update after order  
+- Environment variable support (.env)  
+- Separate routes and controllers for clean code structure  
 
 ---
 
@@ -69,10 +74,17 @@ ZIVORA-E-Commerce/
 │
 └── README.md
 ```
+## 📸 Screenshot
+### Latest Products
+<img width="1869" height="885" alt="image" src="https://github.com/user-attachments/assets/21c5f7b2-b181-46a7-a273-3ae30f5076e1" />
+### Product Details
+<img width="1883" height="909" alt="image" src="https://github.com/user-attachments/assets/edd07a52-1133-42ea-8e32-4f61c4117c74" />
+### Cart
+<img width="1886" height="885" alt="image" src="https://github.com/user-attachments/assets/23f9d642-7932-4232-b527-4f086c607730" />
+### Placing Order
+<img width="1910" height="456" alt="image" src="https://github.com/user-attachments/assets/7b66c922-bf0f-47f7-b03f-6c04380de89d" />
+
 ## 🙌 Acknowledgment
 > **Note:** ZIVORA is **not a real online store**.  
 > It is a **fictional e-commerce platform created for learning and educational purposes**, to practice full-stack development concepts and project structure.
-
-
-
 

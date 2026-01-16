@@ -88,5 +88,5 @@ ZIVORA-E-Commerce/
 
 ## 🙌 Acknowledgment
 > **Note:** ZIVORA is **not a real online store**.  
-> It is a **fictional e-commerce platform created for learning and educational purposes**, to practice full-stack development concepts and project structure.
+> It is a **fictional e-commerce platform created for learning and educational purposes**, to practice MERN-stack development concepts and project structure.
 
